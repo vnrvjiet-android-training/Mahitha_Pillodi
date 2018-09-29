@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200513683151",
+    "firebase_url": "https://realtimeex-b4290.firebaseio.com",
+    "project_id": "realtimeex-b4290",
+    "storage_bucket": "realtimeex-b4290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200513683151:android:da99a419ca2fd3fc",
+        "android_client_info": {
+          "package_name": "com.example.mahitapillodi.realtimeex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200513683151-tqac5ab1mafchl8er13l337tql65i5nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahitapillodi.realtimeex",
+            "certificate_hash": "db61e56bace8da06473e1993fa181e69e031fec6"
+          }
+        },
+        {
+          "client_id": "200513683151-2c356535smhkh492hi17fihh3jhjo3da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWpN6EutJ8qqq_T2vgFCoxxN5CX4T1CcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200513683151-2c356535smhkh492hi17fihh3jhjo3da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
